@@ -60,18 +60,38 @@ Software Developer with **5+ years of experience** specializing in architecting 
 
 ### 🚀 Featured Products & Systems
 
-Here is a selection of enterprise systems and software platforms I have architected (from my [portfolio website](https://www.sejatidimedia.web.id/projects)):
+Here is a selection of enterprise systems, industrial solutions, and SaaS platforms I have architected (from my [portfolio website](https://www.sejatidimedia.web.id/projects)):
 
+#### 🏭 ERP & Industrial Systems (DSN Group)
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| **Telemedhub** | Engineered an end-to-end telemedicine and smart pharmacy platform featuring a Golang Modular Monolith backend and an append-only ledger digital wallet. | `Golang` `React` `PostgreSQL` `Redis` `Midtrans` |
-| **AI Resume Analyzer** | Built an AI-driven resume analysis tool featuring ATS score optimization, keyword gap detection, and automated cover letter generation. | `Python` `FastAPI` `Vue` `Nuxt` `PostgreSQL` |
-| **Nexus ERP Suite** | Developed a multi-tenant ERP platform tailored for enterprise human capital management (HCM) and internal workflows. | `Laravel` `React` `Laravel Sanctum` `PostgreSQL` |
-| **Wood Traceability System** | Architected a GIS-based timber traceability application for SVLK & EUDR legal compliance, using bounding-box validation. | `Laravel` `Angular` `Google Maps API` `MySQL` |
-| **GLIO Project Management** | Designed a professional productivity workspace for freelancer/agency project management, real-time collaboration, and public portfolios. | `Next.js` `Typescript` `Tailwind` `Prisma` `MongoDB` |
-| **SapaUI Template Builder** | Created a premium component library and dynamic landing page builder aimed at streamlining developer workflows. | `Next.js` `Typescript` `Tailwind` `Supabase` `NextAuth` |
-| **Antreey** | Designed a high-performance Queue & Booking OS optimizing reservations for modern service-oriented businesses. | `React` `Tailwind` `Firebase` `Realtime Database` |
-| **NoltPedia Learning Hub** | Built an educational platform combining public learning resources with a custom administrative CMS dashboard. | `Astro` `React` `Tailwind` `BetterAuth` `PostgreSQL` |
+| **Warehouse Management System (WMS)** | Multi-warehouse barcode WMS integrated with SAP API. Automates physical raw-material-to-finished-goods transitions. | `Angular` `Laravel` `MySQL` `SAP API` |
+| **Wood Traceability System** | GIS-based timber traceability application for SVLK & EUDR legal compliance, validating felling points against boundaries. | `Laravel` `Angular` `Google Maps API` `MySQL` |
+| **STTM & Surat Jalan System** | Digitalized transport documents & material tallying system for timber manufacturing ready for Customs audits. | `Laravel` `Angular` `MySQL` |
+| **Import Monitoring System** | Import tracking system with real-time vessel tracking and locked document validation (PR-PO-Packing List). | `Laravel` `Angular` `MySQL` |
+| **Tally Material Logistics** | Digitalized material unloading platform with automatic tally calculators and real-time data broadcasting. | `Angular` `Laravel` `Javascript` |
+| **Production ERP & SAP Staging** | Production ERP based on barcode & data staging engine to sync factory transaction data with SAP. | `Angular` `Laravel` `MySQL` `SAP API` |
+
+#### 🌐 SaaS & Web Platforms (Sejati Dimedia / Freelance)
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| **Telemedhub** | End-to-end telemedicine and smart pharmacy platform with Golang Modular Monolith and append-only ledger wallet. | `Golang` `React` `PostgreSQL` `Redis` `Midtrans` |
+| **AI Resume Analyzer** | AI-driven resume scoring platform for ATS validation, keyword gap detection, and auto cover letter generation. | `Python` `FastAPI` `Vue` `Nuxt` `PostgreSQL` |
+| **Nexus ERP Suite** | Multi-tenant ERP platform for enterprise internal management, focusing on Human Capital Management (HCM). | `Laravel` `React` `Laravel Sanctum` `PostgreSQL` |
+| **GLIO Project Management** | Productivity workspace for freelancer/agency project management, real-time collaboration, and public portfolios. | `Next.js` `Typescript` `Tailwind` `Prisma` `MongoDB` |
+| **SapaUI Template Builder** | Premium component library and dynamic landing page builder aimed at streamlining developer workflows. | `Next.js` `Typescript` `Tailwind` `Supabase` `NextAuth` |
+| **Sedia Archive** | Secure digital archive management system for storing, managing, and sharing files safely. | `Astro` `React` `Tailwind` `BetterAuth` `Cloudflare R2` |
+| **Antreey** | High-performance Queue & Booking OS optimizing reservations for modern service businesses. | `React` `Tailwind` `Firebase` `Realtime Database` |
+| **NoltPedia Learning Hub** | Programming platform combining public learning resources with a custom CMS dashboard. | `Astro` `React` `Tailwind` `BetterAuth` `PostgreSQL` |
+| **Desa Kita** | Digital village management platform combining census data, social aid, events, and a dashboard in one portal. | `Vue` `Laravel` `Laravel Sanctum` `MySQL` |
+
+#### 📱 Mobile Applications
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| **AyoSehat App** | Clinical booking, telemedicine consultations, and integrated billing mobile-first system. | `Flutter` `Bloc` `Laravel` `MySQL` `Firestore` |
+| **HRIS Attendance App** | HRIS mobile attendance system featuring facial recognition and GPS validation. | `Flutter` `Bloc` `Laravel` `Filament` `MySQL` |
+| **Self Order Resto App** | High-performance self-ordering kiosk app for restaurants with Midtrans payment gateway integration. | `Flutter` `Bloc` `Laravel` `MySQL` `Midtrans` |
+| **POS & Inventory App** | POS and warehouse inventory tablet apps for retail multi-outlet businesses. | `Flutter` `Bloc` `Laravel` `MySQL` |
 
 ---
 
