@@ -11,19 +11,19 @@
 
 ### 💫 About Me
 
-I am a software engineer and tech entrepreneur based in Indonesia. I specialize in building highly scalable, performant web applications, custom API services, and AI-driven platforms. Through my digital agency **SejatiDimedia**, I turn complex software ideas into polished production-grade systems.
+I am a senior full-stack software engineer and tech entrepreneur based in Indonesia. I specialize in architecting highly scalable, performant web applications, custom API services, and AI-integrated platforms. Through my digital agency **SejatiDimedia**, I partner with businesses to turn complex product requirements into robust, production-ready software solutions.
 
-- 🔭 I’m currently working on upgrading our custom LMS systems and financial tools.
-- 🌱 I’m currently deepening my knowledge in **AI, LLM integration**, and **Golang Backend Architecture**.
-- 👯 I’m open to collaborating on interesting Web3, AI, and SaaS projects.
-- 💬 Ask me about: **Next.js, Laravel, Go, Python, and System Design**.
-- ✉️ How to reach me: **sejatidimedia@gmail.com**
+- 🔭 **Current Focus**: Architecting modular E-Learning (LMS) ecosystems and building secure, enterprise-grade financial portals.
+- 🌱 **Learning & Exploration**: Deepening expertise in Golang microservices, database optimization, and advanced AI/LLM integration patterns.
+- 👯 **Collaboration**: Open to collaborate on innovative SaaS platforms, automation workflows, and AI-driven products.
+- 💬 **Ask me about**: Next.js/React, Laravel, Go, Python, API Design, and System Architecture.
+- ✉️ **Contact**: Reach out via **sejatidimedia@gmail.com** or connect with me on LinkedIn.
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
-#### 💻 Frontend
+#### 💻 Frontend Development
 <p align="left">
   <a href="https://nextjs.org"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" /></a>
   <a href="https://react.dev"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /></a>
@@ -33,7 +33,7 @@ I am a software engineer and tech entrepreneur based in Indonesia. I specialize 
   <a href="https://tailwindcss.com"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" /></a>
 </p>
 
-#### ⚙️ Backend & Systems
+#### ⚙️ Backend & Systems Engineering
 <p align="left">
   <a href="https://go.dev"><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Golang" /></a>
   <a href="https://python.org"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
@@ -51,7 +51,7 @@ I am a software engineer and tech entrepreneur based in Indonesia. I specialize 
   <a href="https://git-scm.com"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a>
 </p>
 
-#### 🤖 AI & Data Analytics
+#### 🤖 AI & Data Engineering
 <p align="left">
   <a href="https://openai.com"><img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" /></a>
   <a href="https://langchain.com"><img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain" /></a>
@@ -62,18 +62,18 @@ I am a software engineer and tech entrepreneur based in Indonesia. I specialize 
 
 ### 🚀 Featured Projects
 
-Here is a selection of systems and platforms I have built (from my [portfolio website](https://www.sejatidimedia.web.id/projects)):
+Here is a selection of enterprise systems and software platforms I have architected (from my [portfolio website](https://www.sejatidimedia.web.id/projects)):
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| **Telemedhub** | End-to-end telemedicine & smart pharmacy platform with Golang Modular Monolith and append-only ledger wallet. | `Golang` `React` `PostgreSQL` `Redis` `Midtrans` |
-| **AI Resume Analyzer** | AI-driven resume scoring platform for ATS validation, keyword gap detection, and auto cover letter generation. | `Python` `FastAPI` `Vue` `Nuxt` `PostgreSQL` |
-| **Nexus ERP Suite** | Multi-tenant ERP platform for enterprise internal management, focusing on Human Capital Management (HCM). | `Laravel` `React` `Laravel Sanctum` `PostgreSQL` |
-| **Wood Traceability System** | GIS-based wood traceability system for SVLK & EUDR compliance, validating felling points against land boundaries. | `Laravel` `Angular` `Google Maps API` `MySQL` |
-| **GLIO Project Management** | Professional productivity platform for freelancer/agency workflow: project management, collaboration, and public CV. | `Next.js` `Typescript` `Tailwind` `Prisma` `MongoDB` |
-| **SapaUI Template Builder** | Premium UI component library and landing page template builder designed to accelerate frontend development. | `Next.js` `Typescript` `Tailwind` `Supabase` `NextAuth` |
-| **Antreey** | Queue & Booking OS designed for modern service businesses (sports arenas, barbershops, etc.). | `React` `Tailwind` `Firebase` `Realtime Database` |
-| **NoltPedia Learning Hub** | Fundamental programming learning platform combining a public educational site with a custom dashboard CMS. | `Astro` `React` `Tailwind` `BetterAuth` `PostgreSQL` |
+| **Telemedhub** | Engineered an end-to-end telemedicine and smart pharmacy platform featuring a Golang Modular Monolith backend and an append-only ledger digital wallet. | `Golang` `React` `PostgreSQL` `Redis` `Midtrans` |
+| **AI Resume Analyzer** | Built an AI-driven resume analysis tool featuring ATS score optimization, keyword gap detection, and automated cover letter generation. | `Python` `FastAPI` `Vue` `Nuxt` `PostgreSQL` |
+| **Nexus ERP Suite** | Developed a multi-tenant ERP platform tailored for enterprise human capital management (HCM) and internal workflows. | `Laravel` `React` `Laravel Sanctum` `PostgreSQL` |
+| **Wood Traceability System** | Architected a GIS-based timber traceability application for SVLK & EUDR legal compliance, using bounding-box validation. | `Laravel` `Angular` `Google Maps API` `MySQL` |
+| **GLIO Project Management** | Designed a professional productivity workspace for freelancer/agency project management, real-time collaboration, and public portfolios. | `Next.js` `Typescript` `Tailwind` `Prisma` `MongoDB` |
+| **SapaUI Template Builder** | Created a premium component library and dynamic landing page builder aimed at streamlining developer workflows. | `Next.js` `Typescript` `Tailwind` `Supabase` `NextAuth` |
+| **Antreey** | Designed a high-performance Queue & Booking OS optimizing reservations for modern service-oriented businesses. | `React` `Tailwind` `Firebase` `Realtime Database` |
+| **NoltPedia Learning Hub** | Built an educational platform combining public learning resources with a custom administrative CMS dashboard. | `Astro` `React` `Tailwind` `BetterAuth` `PostgreSQL` |
 
 ---
 
