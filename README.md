@@ -84,6 +84,13 @@ Here is a selection of enterprise systems, industrial solutions, and SaaS platfo
 | **Antreey** | High-performance Queue & Booking OS optimizing reservations for modern service businesses. | `React` `Tailwind` `Firebase` `Realtime Database` |
 | **NoltPedia Learning Hub** | Programming platform combining public learning resources with a custom CMS dashboard. | `Astro` `React` `Tailwind` `BetterAuth` `PostgreSQL` |
 | **Desa Kita** | Digital village management platform combining census data, social aid, events, and a dashboard in one portal. | `Vue` `Laravel` `Laravel Sanctum` `MySQL` |
+| **Jangji (Jejak Ngaji)** | Daily Islamic companion PWA (Progressive Web App) with offline-first support for daily prayers. | `Next.js` `Typescript` `Tailwind` |
+| **SediaArtha Finance** | Personal finance management platform tracking transactions, budgets, and debts in a unified system. | `Next.js` `Tailwind` `Typescript` `Supabase` |
+| **GerakDana** | Crowdfunding platform enabling campaign creation, public donations, transaction verification, and management. | `Golang` `Nuxt` `MySQL` `JWT` |
+| **eShop E-commerce** | Multi-vendor e-commerce ecosystem connecting customers, sellers, and administrators. | `React` `Redux` `Tailwind` `Express` `MongoDB` `Socket.io` |
+| **Semina Event Manager** | Event management application facilitating event booking, ticket issuance, and attendee management. | `React` `Node.js` `Express` `MongoDB` |
+| **FCM Chat & Notify** | Real-time chat application and push notification portal utilizing Firebase Cloud Messaging. | `Laravel` `Firebase` `FCM` `MySQL` |
+| **Staycation App** | Accommodation booking platform featuring a customer booking portal and administrative dashboard. | `React` `Node.js` `Express` `MongoDB` |
 
 #### 📱 Mobile Applications
 | Project | Description | Stack |
