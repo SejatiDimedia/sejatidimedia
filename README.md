@@ -1,13 +1,15 @@
-# Hi there, I'm Timur Dian Radha Sejati 👋
-### Software Developer & Full-Stack Engineer
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=220&section=header&text=Timur%20Dian%20Radha%20Sejati&fontSize=38&fontColor=3b82f6&desc=Full-Stack%20Software%20Developer%20%7C%20ERP%20%26%20SaaS%20Architect&descSize=15&descAlignY=62&descColor=9ca3af" width="100%" />
 
-<p align="center">
+  <br />
+
   <a href="https://glio.vercel.app/p/timurradhadian">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Software+Developer;ERP+%26+SaaS+Ecosystem+Architect;Next.js%2C+Laravel%2C+Go+%26+Flutter;AI-Driven+Workflow+Integration" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=20&duration=2500&pause=1000&color=60a5fa&center=true&vCenter=true&width=600&lines=Software+Developer;ERP+%26+SaaS+Ecosystem+Architect;Next.js%2C+Laravel%2C+Go+%26+Flutter;AI-Driven+Workflow+Integration" alt="Typing SVG" />
   </a>
-</p>
+</div>
 
----
+<br />
+
 
 ### 💫 About Me
 
