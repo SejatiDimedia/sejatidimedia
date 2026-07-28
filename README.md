@@ -11,14 +11,14 @@
 
 ### 💫 About Me
 
-Software Developer with **5+ years of experience** specializing in architecting stable, efficient, and scalable **ERP systems, SaaS ecosystems, and mobile applications**[cite: 1]. Experienced in transforming complex business logic and manufacturing workflows into seamless digital systems—from warehouse management optimizations to real-time inter-platform data integrations[cite: 1].
+Software Developer with **5+ years of experience** specializing in architecting stable, efficient, and scalable **ERP systems, SaaS ecosystems, and mobile applications**. Experienced in transforming complex business logic and manufacturing workflows into seamless digital systems—from warehouse management optimizations to real-time inter-platform data integrations.
 
-- 💼 **Current Role**: Full-Stack Developer at **Tanjung Kreasi Parquet Industri (DSN Group)** & Freelance Software Engineer[cite: 1].
-- 🔭 **Current Focus**: Integrated ERP automation, granular access security, and AI-driven development workflows[cite: 1].
-- 🌱 **Tech Exploration**: Advanced database optimization, Drizzle ORM, and backend API engineering with Golang[cite: 1].
-- 💬 **Ask me about**: ERP Systems Architecture, Next.js, Laravel, Flutter/React Native, and API Design[cite: 1].
-- 🎓 **Education**: B.S. in Computer Science (S1 Informatika) - Universitas Amikom Yogyakarta (GPA 3.7)[cite: 1].
-- ✉️ **Contact**: `timur7dian84@gmail.com` | Balikpapan, Indonesia[cite: 1].
+- 💼 **Current Role**: Full-Stack Developer at **Tanjung Kreasi Parquet Industri (DSN Group)** & Freelance Software Engineer.
+- 🔭 **Current Focus**: Integrated ERP automation, granular access security, and AI-driven development workflows.
+- 🌱 **Tech Exploration**: Advanced database optimization, Drizzle ORM, and backend API engineering with Golang.
+- 💬 **Ask me about**: ERP Systems Architecture, Next.js, Laravel, Flutter/React Native, and API Design.
+- 🎓 **Education**: B.S. in Computer Science (S1 Informatika) - Universitas Amikom Yogyakarta (GPA 3.7).
+- ✉️ **Contact**: `timur7dian84@gmail.com` | Balikpapan, Indonesia.
 
 ---
 
@@ -99,8 +99,8 @@ Here is a selection of enterprise systems, industrial solutions, and SaaS platfo
 
 | Role | Company / Entity | Timeline | Key Responsibilities |
 | :--- | :--- | :--- | :--- |
-| **Full-Stack Developer** | Tanjung Kreasi Parquet Industri (DSN GROUP) | Feb 2021 – May 2026 | Built custom integrated ERP (Laravel & Angular), automated Work Order calculations, vendor collaboration platform, and granular security controls[cite: 1]. |
-| **Software Engineer (Freelance)** | Sejati Dimedia | Apr 2024 – Present | Architected scalable cross-platform mobile apps, modern web applications, and AI-driven development workflows[cite: 1]. |
+| **Full-Stack Developer** | Tanjung Kreasi Parquet Industri (DSN GROUP) | Feb 2021 – May 2026 | Built custom integrated ERP (Laravel & Angular), automated Work Order calculations, vendor collaboration platform, and granular security controls. |
+| **Software Engineer (Freelance)** | Sejati Dimedia | Apr 2024 – Present | Architected scalable cross-platform mobile apps, modern web applications, and AI-driven development workflows. |
 
 ---
 
