@@ -88,10 +88,14 @@ Here is a selection of enterprise systems, industrial solutions, and SaaS platfo
 #### 📱 Mobile Applications
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| **AyoSehat App** | Clinical booking, telemedicine consultations, and integrated billing mobile-first system. | `Flutter` `Bloc` `Laravel` `MySQL` `Firestore` |
-| **HRIS Attendance App** | HRIS mobile attendance system featuring facial recognition and GPS validation. | `Flutter` `Bloc` `Laravel` `Filament` `MySQL` |
-| **Self Order Resto App** | High-performance self-ordering kiosk app for restaurants with Midtrans payment gateway integration. | `Flutter` `Bloc` `Laravel` `MySQL` `Midtrans` |
-| **POS & Inventory App** | POS and warehouse inventory tablet apps for retail multi-outlet businesses. | `Flutter` `Bloc` `Laravel` `MySQL` |
+| **AyoSehat App** | Platform layanan klinik digital berbasis mobile (konsultasi, reservasi, rekam medis, & pembayaran). | `Flutter` `Bloc` `Laravel` `MySQL` `Firestore` |
+| **Absensi HRIS App** | Aplikasi presensi karyawan dengan Face Recognition dan validasi koordinat GPS. | `Flutter` `Bloc` `Laravel` `Filament` `MySQL` |
+| **Self Order Resto App** | Kios pemesanan mandiri (self-order) untuk restoran terintegrasi dengan payment gateway Midtrans. | `Flutter` `Bloc` `Laravel` `MySQL` `Midtrans` |
+| **Laundry App** | Aplikasi manajemen operasional dan kasir jasa laundry berbasis mobile. | `Flutter` `Bloc` `Laravel` `MySQL` |
+| **Inventory System Tablet** | Aplikasi tablet untuk pemantauan stok gudang dan mutasi material secara real-time. | `Flutter` `Bloc` `Laravel` `MySQL` |
+| **HR Management System (Mobile)** | Aplikasi mobile penunjang HRIS untuk kebutuhan manajemen tim dan karyawan. | `Flutter` `Bloc` `Laravel` `MySQL` |
+| **Point of Sales Tablet** | Aplikasi tablet kasir (POS) untuk transaksi cepat di kasir outlet. | `Flutter` `Bloc` `Laravel` `MySQL` |
+| **Katsira Point of Sales** | Platform POS offline-first untuk retail multi-outlet (dashboard web & mobile app dengan sinkronisasi cloud). | `React Native` `React` `MySQL` |
 
 ---
 
